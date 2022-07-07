@@ -27,7 +27,7 @@
         "@lazy-copilot/datetimepicker": "^0.1.29",
         "bootstrap-vue": "^2.0.0-rc.11",
         "bulma": "^0.7.2",
-        "moment": "^2.23.0",
+        "moment": "^2.29.4",
         "v-calendar": "^1.0.1",
         "v-image": "^1.0.10",
         "vue-axios": "^2.1.4",
